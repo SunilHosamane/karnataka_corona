@@ -24,10 +24,10 @@ def writecases(Date, ID):
 
 
 twitter_keys = {
-        'consumer_key':        'ayFqrwaTVXGNlWBGRgs5e2U5R',
-        'consumer_secret':     '2DNdTSAY0igjk1p9TIR5SnPSS0cHR4KH2f72F0iFwYzwXB2GDr',
-        'access_token_key':    '1042115724469129216-WkVbkn954wOhEAPob8E1RUwZ4jjZsR',
-        'access_token_secret': 'DgZuSBEXSjYbLU6cQoUPHZ9iccv3b1Wmo9tWKoxap8b4v'
+        'consumer_key':        ##,
+        'consumer_secret':     ##,
+        'access_token_key':    ##,
+        'access_token_secret': 
     }
 
 #Setup access to API
